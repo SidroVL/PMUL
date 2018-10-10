@@ -27,7 +27,8 @@ export class HomePage {
         this.mayorMenor="menor de";
       }
       else if (this.numSecreto > this.num){
-        this.mayorMenor= "mayor de";
+        
+        this.mayorMenor= "mayor de s";
       } else {this.mayorMenor=''}
 
     }
